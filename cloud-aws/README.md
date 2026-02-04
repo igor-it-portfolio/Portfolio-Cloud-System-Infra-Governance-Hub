@@ -1,14 +1,17 @@
 # Cloud Infrastructure Projects (AWS)
 
-Practical projects focused on cloud infrastructure, security and operational best practices using AWS.
+Hands-on cloud projects focused on infrastructure, security and operational best practices.
+
+## 🔗 Repositories
+
+- ☁️ **AWS EC2 Secure Environment**
+  👉 [https://github.com/Igor-Pantoja/aws-ec2-secure-environment](https://github.com/igor-it-portfolio/Clound-lab-05-aws-ec2-linux)
+
+- 💾 **Cloud Backup with S3**
+  👉[ https://github.com/Igor-Pantoja/aws-backup-s3](https://github.com/igor-it-portfolio/Clound-lab-06-backup-aws-s3)
 
 ## Topics covered
-- EC2 provisioning and management
-- IAM users, roles and policies
-- Backup strategies with S3
-- Cloud security and monitoring
-
-## Projects
-- Secure EC2 Environment
-- IAM and Access Control Lab
-- Cloud Backup Strategy
+- EC2 provisioning
+- IAM and access control
+- Backup strategies
+- Cloud security
