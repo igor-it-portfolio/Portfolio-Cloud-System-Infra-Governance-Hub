@@ -1,15 +1,13 @@
 # Data & Information Governance Projects
 
-Projects focused on governance of data and information, applying structure, security, documentation and compliance concepts.
+This section focuses on governance of data and information, combining records management, security and cloud practices.
+
+## 🔗 Repositories
+
+
 
 ## Topics covered
-- Information lifecycle management
-- Access control and traceability
-- Data classification and organization
-- Retention and documentation policies
-- Governance applied to Cloud environments
-
-## Projects
-- Information Lifecycle Policy
-- Access Control and Traceability Model
-- Governance Applied to Cloud Infrastructure
+- Information lifecycle
+- Access control and compliance
+- Documentation and audit
+- Governance applied to cloud
