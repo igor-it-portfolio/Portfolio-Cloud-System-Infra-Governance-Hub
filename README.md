@@ -1,32 +1,20 @@
 # Portfolio-overview-Cloud-Infra-Governance-lab
-# Cloud, Infrastructure & Governance Lab
 
-Practical projects focused on **Linux System Administration**, **Cloud Infrastructure (AWS)** and **Information / Data Governance**, applying security, documentation and compliance best practices.
+# Cloud, Infrastructure & Data Governance Portfolio
 
-This repository brings together hands-on labs, scripts and documentation developed during my professional transition and freelance projects.
+This repository works as a central hub for my technical projects across system administration, cloud infrastructure and data governance.
 
----
+## 📂 Project Areas
 
-## 🔧 Technical Scope
+👉 **Linux & System Administration**  
+📁 [system-linux](./system-linux)
 
-### Infrastructure & Systems
-- Linux server administration (Ubuntu)
-- User and access management
-- SSH hardening and firewall configuration
-- System monitoring and basic automation (bash, cron)
+👉 **Cloud Infrastructure (AWS)**  
+📁 [cloud-aws](./cloud-aws)
 
-### Cloud (AWS)
-- EC2 instance creation and management
-- IAM users, roles and access policies
-- Backup strategies using AWS S3
-- Basic security and monitoring practices
+👉 **Data & Information Governance**  
+📁 [data-governance](./data-governance)
 
-### Governance & Security
-- Information and data lifecycle management
-- Access control and traceability
-- Documentation for audits and internal controls
-- Retention and data organization policies
-- Alignment with information security and compliance concepts
 
 ---
 
