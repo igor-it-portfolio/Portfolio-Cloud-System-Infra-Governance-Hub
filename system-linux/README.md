@@ -1,14 +1,18 @@
 # Linux System Administration Projects
 
-Hands-on projects focused on Linux server administration, security, automation and monitoring.
+# Linux & System Administration Projects
+
+This section groups hands-on projects related to Linux system administration, security, automation and monitoring.
+
+## 🔗 Repositories
+
+- 🔐 **Linux Security Hardening**
+  👉 [(https://github.com/igor-it-portfolio/sysadmin-lab-01-linux-security)](https://github.com/igor-it-portfolio/sysadmin-lab-01-linux-security)
+
 
 ## Topics covered
-- User and permission management
-- SSH hardening and firewall configuration
+- Linux administration (Ubuntu)
+- SSH hardening and firewall
 - Backup and recovery
-- System monitoring and basic automation
+- Monitoring and automation
 
-## Projects
-- Linux Security Hardening Lab
-- Backup Automation Scripts
-- Server Monitoring Setup
