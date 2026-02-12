@@ -11,13 +11,13 @@ Each folder contains links to independent repositories with full implementation 
 
 ## 📂 Project Areas
 
-👉 **Cloud Infrastructure (AWS)**  
+👉 **☁️ Cloud Infrastructure (AWS)**  
 📁 [cloud-aws](./cloud-aws)
 
-👉 **Linux & System Administration**  
+👉 **🐧 Linux & System Administration**  
 📁 [system-linux](./system-linux)
 
-👉 **Data & Information Governance**  
+👉 **📊 Data & Information Governance**  
 📁 [data-governance](./data-governance)
 
 
