@@ -19,7 +19,7 @@ This section groups hands-on projects related to Linux system administration, se
   👉 https://github.com/igor-it-portfolio/Runbook-Incidentes-WEB.md
 
   💾 **Backup Automation (Linux & Cloud)**
-  https://github.com/igor-it-portfolio/sysadmin-lab-03-backup-automation
+  👉 https://github.com/igor-it-portfolio/sysadmin-lab-backup-automation
 
   ⚙️ **SysAdmin Automation Scripts**
   https://github.com/igor-it-portfolio/sysadmin-lab-04-sysadmin-scripts
