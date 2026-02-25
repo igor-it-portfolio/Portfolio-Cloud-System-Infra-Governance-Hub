@@ -15,7 +15,7 @@ This section groups hands-on projects related to Linux system administration, se
   🌐 **Secure Web Server with HTTPS**
   👉 https://github.com/igor-it-portfolio/sysadmin-lab-webserver-https
   
-  🌐 **Runbook de Resposta a Incidentes Web**
+  🌐 **Web Incident Response Runbook**
   👉 https://github.com/igor-it-portfolio/Runbook-Incidentes-WEB.md
 
   💾 **Backup Automation (Linux & Cloud)**
