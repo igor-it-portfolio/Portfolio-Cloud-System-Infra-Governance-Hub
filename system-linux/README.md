@@ -21,8 +21,8 @@ This section groups hands-on projects related to Linux system administration, se
   💾 **Backup Automation (Linux & Cloud)**
   👉 https://github.com/igor-it-portfolio/sysadmin-lab-backup-automation
 
-  ⚙️ **SysAdmin Automation Scripts**
-  https://github.com/igor-it-portfolio/sysadmin-lab-04-sysadmin-scripts
+  ⚙️ **SysAdmin Bash Maintenance & Monitoring Framework**
+  👉https://github.com/igor-it-portfolio/bash-maintenance-monitor
 
 
 ## Topics covered
