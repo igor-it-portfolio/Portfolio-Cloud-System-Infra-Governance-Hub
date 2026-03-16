@@ -1,10 +1,10 @@
-# Portfolio-Cloud-Governance-Observability-Linux-Hub
+# Portfolio-CloudInfra-Governance-Observability-Linux-Hub
 
 # Cloud Infrastructure (AWS), Data Governance, Observability, Linux System Administration & Portfolio
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Data Governance](https://img.shields.io/badge/Data%20Governance-%23005A9C.svg?style=for-the-badge&logo=data-analytics&logoColor=white)
 
-This repository works as a central hub for my technical projects across  cloud infrastructure, system administration and data governance.
+This repository works as a central hub for my technical projects across  cloud infrastructure, data governance, observability and ystem administration .
 ⚠️ Note:
 Each folder contains links to independent repositories with full implementation and documentation.
 
@@ -18,7 +18,7 @@ Each folder contains links to independent repositories with full implementation 
 📁 [data-governance](./data-governance)
 
 👉 **Observability**
-📁
+📁 https://github.com/igor-it-portfolio/Portfolio-CloudInfra-Governance-Observability-Linux-Hub/tree/main/observability
 
 👉 **🐧 Linux & System Administration**  
 📁 [system-linux](./system-linux)
