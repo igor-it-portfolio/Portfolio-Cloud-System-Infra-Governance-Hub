@@ -9,7 +9,7 @@ Este é o meu hub central de projetos técnicos. Aqui demonstro a aplicação pr
 
 ## 🚀 Specialized Portfolio Areas
 
-### 📂 [1. GRC & Cloud Compliance](./01-GRC-Compliance-Audit-Ready)
+### 📂 [1. GRC & Compliance Frameworks](./01-GRC-Compliance-Frameworks)
 **PT-BR:** Gestão de Riscos, Auditoria, ISO 27001 e conformidade LGPD aplicadas à infraestrutura.
 **EN:** Risk Management, Auditing, ISO 27001, and LGPD/GDPR compliance applied to infrastructure.
 
