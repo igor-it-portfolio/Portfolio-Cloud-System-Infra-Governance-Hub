@@ -1,47 +1,46 @@
-# Portfolio-CloudInfra-Governance-Observability-Linux-Hub
+# 📂 Portfolio: Cloud Security, GRC & IAM Hub
 
-# Cloud Infrastructure (AWS), Data Governance, Observability, Linux System Administration & Portfolio
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloud Security](https://img.shields.io/badge/Cloud%20Security-%23000000.svg?style=for-the-badge&logo=securityscorecard&logoColor=white) ![IAM](https://img.shields.io/badge/IAM%20Expert-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GRC](https://img.shields.io/badge/GRC%20Compliance-%23005A9C.svg?style=for-the-badge&logo=data-analytics&logoColor=white)
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Data Governance](https://img.shields.io/badge/Data%20Governance-%23005A9C.svg?style=for-the-badge&logo=data-analytics&logoColor=white)
-
-This repository works as a central hub for my technical projects across  cloud infrastructure, data governance, observability and ystem administration .
-⚠️ Note:
-Each folder contains links to independent repositories with full implementation and documentation.
-
-
-## 📂 Project Areas
-
-👉 **☁️ Cloud Infrastructure (AWS)** 📁 [cloud-aws](./cloud-aws)
-
-👉 **📊 Data Governance** 📁 [data-governance](./data-governance)
-
-👉 **📊 Observability** 📁 [observability](./observability)
-
-👉 **🐧 Linux & System Administration** 📁 [system-linux](./system-linux)
-
-
-## 📂 Projects Structure
-
-Each folder represents a practical lab or project, including:
-- Technical description
-- Architecture or flow explanation
-- Security and governance considerations
-- Practical implementation steps
+Este é o meu hub central de projetos técnicos. Aqui demonstro a aplicação prática de segurança, governança e gestão de identidades em ambientes Cloud.
+*This is my central technical hub. Here I demonstrate the practical application of security, governance, and identity management in Cloud environments.*
 
 ---
 
-## 🎯 Objective
+## 🚀 Specialized Portfolio Areas
 
-To demonstrate real-world skills in:
-- System and Cloud administration
-- Secure and well-documented environments
-- Application of governance principles in infrastructure and cloud contexts
+### 📂 [1. GRC & Cloud Compliance](./01-GRC-Compliance-Audit-Ready)
+**PT-BR:** Gestão de Riscos, Auditoria, ISO 27001 e conformidade LGPD aplicadas à infraestrutura.
+**EN:** Risk Management, Auditing, ISO 27001, and LGPD/GDPR compliance applied to infrastructure.
 
-This repository is intended for technical evaluation, freelance opportunities and remote roles.
+### 📂 [2. IAM & Cloud Security](./02-IAM-Analyst-Cloud-Security)
+**PT-BR:** Gestão de Identidades, Privilégio Mínimo, Políticas de Acesso e Criptografia (KMS).
+**EN:** Identity & Access Management, Least Privilege, Access Policies, and Encryption (KMS).
+
+### 📂 [3. Security Observability & SRE](./03-Security-Observability-SRE)
+**PT-BR:** Monitoramento de segurança, Dashboards de conformidade e detecção de incidentes.
+**EN:** Security monitoring, Compliance Dashboards, and incident detection.
+
+### 📂 [4. Linux Sec & Hardening](./04-Linux-Sec-Hardening)
+**PT-BR:** Administração segura de servidores Linux, automação Bash e endurecimento de sistemas.
+**EN:** Secure Linux administration, Bash automation, and OS hardening.
 
 ---
 
-## 👤 About Me
+## 🎯 Objective / Objetivo
 
-Background in **Records Management and Information Governance**, with 6 years of professional experience, currently transitioning to **Cloud and Infrastructure**, applying governance concepts directly to technical environments.
+**EN:** To demonstrate professional expertise in **Cloud Governance** and **IAM**, bridging the gap between corporate records management and modern cloud security architectures. Focused on remote roles and high-level security consulting.
+
+**PT-BR:** Demonstrar expertise profissional em **Governança de Nuvem** e **IAM**, unindo a experiência em gestão de ativos críticos com arquiteturas modernas de segurança em nuvem. Focado em posições remotas e consultoria de segurança de alto nível.
+
+---
+
+## 👤 About Me / Sobre Mim
+
+**Information Security Specialist (Post-grad)** with 6 years of experience as a **Records & Information Manager**. 
+*Especialista em Segurança da Informação (Pós-graduado) com 6 anos de experiência como Gerente de Informação e Arquivos.*
+
+---
+
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/igor-pantojacloud-system/)
 
