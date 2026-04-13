@@ -1,9 +1,19 @@
-# 🐧 Linux Security & System Hardening
+# 🐧 Secure Infrastructure & Hardening
 
-Este repositório agrupa projetos práticos focados em administração segura de sistemas Linux, automação de segurança e conformidade de servidores.
-*This section groups hands-on projects focused on secure Linux administration, security automation, and server compliance.*
+**PT-BR:**
+Este repositório agrupa projetos práticos focados na administração segura de sistemas Linux e automação de segurança. Meu objetivo aqui é demonstrar a criação de bases sólidas e resilientes, aplicando normas de conformidade (Hardening) e automação para garantir que o sistema operacional esteja protegido contra ameaças e vulnerabilidades.
+
+**EN:**
+This repository groups hands-on projects focused on secure Linux administration and security automation. My goal here is to demonstrate the creation of solid and resilient foundations, applying compliance standards (Hardening) and automation to ensure the operating system is protected against threats and vulnerabilities.
 
 ---
+
+### 🔐 System Integrity / Integridade do Sistema:
+
+* **OS Hardening:** Implementation of security benchmarks (CIS/NIST) for Linux servers.
+* **Security Automation:** Bash scripting for automated auditing and patch management.
+* **Access Control:** Secure SSH configuration, Sudoers policies, and File System permissions.
+* **Vulnerability Management:** Tools and techniques for scanning and remediating OS-level risks.
 
 ## 🚀 Repositories / Repositórios Técnicos
 
@@ -34,13 +44,6 @@ Este repositório agrupa projetos práticos focados em administração segura de
     👉 [Access Repository](https://github.com/igor-it-portfolio/bash-maintenance-monitor)
     *Foco: Automação de tarefas rotineiras e monitoramento de integridade via Bash.*
 
----
-
-## 🛠️ Technical Focus / Foco Técnico
-- **OS Hardening:** Ubuntu/Debian security best practices.
-- **Identity & Access:** SSH Keys management and sudoers policy.
-- **Data Protection:** Backup scripts and disaster recovery.
-- **Security Compliance:** Audit logs and system monitoring.
 
 ---
 
