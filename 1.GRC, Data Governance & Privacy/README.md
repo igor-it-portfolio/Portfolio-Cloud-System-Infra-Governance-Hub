@@ -1,10 +1,20 @@
-# 🛡️ GRC & Compliance Frameworks (Governance, Risk & Compliance)
+# 🛡️ GRC, Data Governance & Privacy Frameworks
 
-Este repositório é o pilar de governança do meu portfólio. Aqui demonstro a aplicação de frameworks internacionais, gestão de riscos e conformidade regulatória para ambientes de dados críticos.
-*This section is the governance pillar of my portfolio. Here I demonstrate the application of international frameworks, risk management, and regulatory compliance for critical data environments.*
+**PT-BR:**
+Este repositório é o pilar estratégico do meu portfólio. Aqui demonstro a aplicação prática de frameworks internacionais (ISO 27001, NIST), gestão de riscos e conformidade regulatória (LGPD/GDPR) para ambientes de dados críticos. Meu foco é garantir que a segurança tecnológica esteja alinhada aos objetivos de negócio e requisitos legais.
+
+**EN:**'
+This repository is the strategic pillar of my portfolio. Here I demonstrate the practical application of international frameworks (ISO 27001, NIST), risk management, and regulatory compliance (LGPD/GDPR) for critical data environments. My focus is to ensure that technical security is aligned with business objectives and legal requirements.
 
 ---
 
+### 🎯 Key Focus Areas / Áreas de Foco:
+
+* **Data Lifecycle Governance:** Management from collection to secure disposal.
+* **Risk Assessment:** Identification and mitigation based on ISO 27005.
+* **Compliance Auditing:** Checklists and evidence for regulatory standards.
+* **Privacy by Design:** Implementing LGPD requirements into technical workflows.
+---
 ## 🚀 Upcoming Projects & Documentation / Projetos em Desenvolvimento
 
 ### 📋 **Governance,Risk,Compliance** 
