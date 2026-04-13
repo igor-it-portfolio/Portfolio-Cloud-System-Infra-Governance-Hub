@@ -8,14 +8,6 @@ This repository focuses on the technical implementation of security and identity
 
 ---
 
-### 🛠️ Technical Enablers / Pilares Técnicos:
-
-* **Identity Governance:** Implementation of RBAC (Role-Based Access Control) and Fine-grained policies.
-* **Infrastructure as Code (IaC):** Secure and compliant provisioning using Terraform.
-* **Data Protection:** Management of encryption keys (AWS KMS) and Secrets Management.
-* **Zero Trust Architecture:** Moving away from perimeter security to identity-based verification.
-
----
 
 ## 🚀 Repositories / Repositórios Técnicos
 
@@ -26,12 +18,23 @@ This repository focuses on the technical implementation of security and identity
 * **Terraform AWS Automation** 👉 [Access Repository](https://github.com/igor-it-portfolio/terraform-aws-automation)  
   **Foco:** Automação de infraestrutura (IaC) com foco em segurança (VPC, Security Groups, EC2) e padronização de ambientes.
 
+* **Projeto ZTIG (IAM/GRC) Governança de Identidade e Controle de Acesso Fintech Global** 👉 [Access Repository](https://github.com/igor-it-portfolio/projeto-ztig-fintech)  
+  **Foco:** Este projeto apresenta a solução de infraestrutura e governança de acesso desenvolvida para a Fintech Global.
+
+
 ### 🔑 **Identity Management Labs (Roadmap)**
 * **AWS KMS & Data Encryption Lab** 👉 [Coming Soon / Em breve]  
   **Foco:** Gestão de chaves criptográficas, políticas de uso de chaves e proteção de dados em repouso.
 
 
 ---
+### 🛠️ Technical Enablers / Pilares Técnicos:
+
+* **Identity Governance:** Implementation of RBAC (Role-Based Access Control) and Fine-grained policies.
+* **Infrastructure as Code (IaC):** Secure and compliant provisioning using Terraform.
+* **Data Protection:** Management of encryption keys (AWS KMS) and Secrets Management.
+* **Zero Trust Architecture:** Moving away from perimeter security to identity-based verification.
+
 
 
 ---
