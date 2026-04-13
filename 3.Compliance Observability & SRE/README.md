@@ -1,9 +1,20 @@
-# 📊 Security Observability & SRE (Site Reliability Engineering)
+# 👁️ Compliance Observability & Security SRE
 
-Este repositório é dedicado à implementação de monitoramento contínuo, detecção de incidentes de segurança e resiliência de sistemas utilizando Docker e Cloud Services.
-*This section is dedicated to implementing continuous monitoring, security incident detection, and cloud system resilience using Docker and Cloud Services.*
+**PT-BR:**
+Este repositório é dedicado à implementação de monitoramento contínuo e detecção de incidentes com foco em conformidade. Demonstro aqui como construir a "torre de vigilância" necessária para GRC, garantindo resiliência e visibilidade sobre ativos críticos através de Dashboards de segurança e alertas automatizados.
+
+**EN:**
+This repository is dedicated to continuous monitoring and incident detection with a focus on compliance. I demonstrate how to build the "security watchtower" required for GRC, ensuring resilience and visibility over critical assets through security dashboards and automated alerting.
 
 ---
+
+### 👁️ Monitoring for Governance / Monitoramento para Governança:
+
+* **Security Metrics:** Real-time dashboards for auditing and compliance (Grafana/CloudWatch).
+* **Incident Detection:** Automated alerts for unauthorized access or security drift.
+* **System Resilience:** Ensuring the Availability pillar of the CIA Triad (Confidentiality, Integrity, Availability).
+* **Log Management:** Centralized logs for forensic analysis and regulatory evidence.
+
 
 ## 🚀 Ongoing Labs & Repositories / Projetos em Desenvolvimento
 
@@ -21,18 +32,6 @@ Este repositório é dedicado à implementação de monitoramento contínuo, det
     👉 [Coming Soon / Em breve]
     *Foco: Criação de dashboards visuais para análise de tráfego, tentativas de invasão e saúde da infraestrutura AWS.*
 
-### 🔐 **Log Management & Detection**
-* **VPC Flow Logs & CloudTrail Analysis**
-    👉 [Coming Soon / Em breve]
-    *Foco: Monitoramento de tráfego de rede e auditoria de chamadas de API para identificação de exfiltração de dados.*
-
----
-
-## 🛠️ Tech Stack / Tecnologias
-- **Docker & Docker Compose:** Containerização de ferramentas de monitoramento.
-- **Uptime Kuma:** Monitoramento de status e latência de serviços.
-- **Grafana:** Visualização de dados e dashboards de segurança.
-- **AWS CloudWatch:** Logs, métricas e alarmes nativos da nuvem.
 
 ---
 
