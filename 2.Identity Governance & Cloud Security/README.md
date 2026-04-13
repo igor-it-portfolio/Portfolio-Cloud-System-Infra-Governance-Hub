@@ -1,7 +1,19 @@
-# 🔐 IAM & Cloud Security (Identity & Access Management)
+# 🔐 Identity Governance & Cloud Security (IAM)
 
-Este repositório foca na implementação técnica de segurança, gestão de identidades e automação de infraestrutura segura (IaC) utilizando o princípio do privilégio mínimo.
-*This section focuses on technical security implementation, identity management, and secure infrastructure automation (IaC) using the principle of least privilege.*
+**PT-BR:**
+Este repositório foca na implementação técnica de segurança e gestão de identidades sob a ótica de Governança. Demonstro aqui a automação de infraestrutura segura (IaC) utilizando o princípio do **Privilégio Mínimo (Least Privilege)**, garantindo que o acesso ao dado seja controlado, auditável e em conformidade com normas internacionais.
+
+**EN:**
+This repository focuses on the technical implementation of security and identity management through a Governance lens. I demonstrate secure infrastructure automation (IaC) using the **Principle of Least Privilege**, ensuring that data access is controlled, auditable, and compliant with international standards.
+
+---
+
+### 🛠️ Technical Enablers / Pilares Técnicos:
+
+* **Identity Governance:** Implementation of RBAC (Role-Based Access Control) and Fine-grained policies.
+* **Infrastructure as Code (IaC):** Secure and compliant provisioning using Terraform.
+* **Data Protection:** Management of encryption keys (AWS KMS) and Secrets Management.
+* **Zero Trust Architecture:** Moving away from perimeter security to identity-based verification.
 
 ---
 
@@ -18,16 +30,9 @@ Este repositório foca na implementação técnica de segurança, gestão de ide
 * **AWS KMS & Data Encryption Lab** 👉 [Coming Soon / Em breve]  
   **Foco:** Gestão de chaves criptográficas, políticas de uso de chaves e proteção de dados em repouso.
 
-* **Advanced IAM Roles & SCPs Policies** 👉 [Coming Soon / Em breve]  
-  **Foco:** Governança multi-contas com Service Control Policies (SCPs) e permissões granulares.
 
 ---
 
-## 🛠️ Technical Focus / Foco Técnico
-- **Least Privilege:** Implementação de políticas granulares de acesso (IAM Policies).
-- **IaC Security:** Provisionamento seguro de recursos via Terraform.
-- **Identity Lifecycle:** Gestão do ciclo de vida de identidades e acessos.
-- **Encryption:** Proteção de dados sensíveis com AWS KMS.
 
 ---
 
