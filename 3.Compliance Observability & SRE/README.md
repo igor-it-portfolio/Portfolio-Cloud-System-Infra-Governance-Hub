@@ -8,13 +8,6 @@ This repository is dedicated to continuous monitoring and incident detection wit
 
 ---
 
-### 👁️ Monitoring for Governance / Monitoramento para Governança:
-
-* **Security Metrics:** Real-time dashboards for auditing and compliance (Grafana/CloudWatch).
-* **Incident Detection:** Automated alerts for unauthorized access or security drift.
-* **System Resilience:** Ensuring the Availability pillar of the CIA Triad (Confidentiality, Integrity, Availability).
-* **Log Management:** Centralized logs for forensic analysis and regulatory evidence.
-
 
 ## 🚀 Ongoing Labs & Repositories / Projetos em Desenvolvimento
 
@@ -34,7 +27,13 @@ This repository is dedicated to continuous monitoring and incident detection wit
 
 
 ---
+### 👁️ Monitoring for Governance / Monitoramento para Governança:
 
+* **Security Metrics:** Real-time dashboards for auditing and compliance (Grafana/CloudWatch).
+* **Incident Detection:** Automated alerts for unauthorized access or security drift.
+* **System Resilience:** Ensuring the Availability pillar of the CIA Triad (Confidentiality, Integrity, Availability).
+* **Log Management:** Centralized logs for forensic analysis and regulatory evidence.
+  
 ## 🎯 Strategic Pillars / Pilares Técnicos
 - **Visibility:** Métricas em tempo real para tomada de decisão rápida.
 - **Reliability:** Redução de MTTR (Mean Time To Recovery) através de alertas inteligentes.
